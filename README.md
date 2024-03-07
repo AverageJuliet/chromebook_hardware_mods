@@ -13,7 +13,7 @@ It provides overall better thermal heat transfer compared to the stock thermal p
 step 1. get a flat piece of copper and cut it to the same width as the die (also has to be slightly thinner than the original thermal pad to prevent the board from bending possibly)
 
 
-step 2. sand it a bit to get rid of rough surfaces/edges
+step 2. sand it a bit to get rid of rough surfaces/edges.
 
 
 step 3. place an appropriate amount of thermal paste on both sids of the copper piece and place it on the CPU then put the board back into place making sure the copper is making soild contact with both the CPU and the heatsink/keyboard backplate.
@@ -21,13 +21,13 @@ step 3. place an appropriate amount of thermal paste on both sids of the copper 
 It should look something like this if its cut and sanded correctly.
 
 
-step 4. screw the board down and close up the unit
+step 4. screw the board down and close up the unit.
 
 
 step 5. install the stress package and do stress --cpu 100
 
 
-step 6. monitor temps to make sure the mod was successful 
+step 6. monitor temps to ensure the mod was successful. 
 ![20240223_201337 (1)](https://github.com/AverageJuliet/chromebook_hardware_mods/assets/134985726/5d735a71-1a4c-4aa0-af0f-8dd669dd2527)
 This is an example of the mod performed successfully. 
 

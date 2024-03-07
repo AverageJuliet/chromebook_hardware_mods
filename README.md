@@ -28,7 +28,7 @@ step 5. install the stress package and do stress --cpu 100
 
 
 step 6. monitor temps to make sure the mod was successful 
-![20240223_200224](https://github.com/AverageJuliet/chromebook_hardware_mods/assets/134985726/4922b2a5-8099-484c-82d8-28dff28d0c0d)
+![20240223_201337 (1)](https://github.com/AverageJuliet/chromebook_hardware_mods/assets/134985726/5d735a71-1a4c-4aa0-af0f-8dd669dd2527)
 This is an example of the mod performed successfully. 
 
 

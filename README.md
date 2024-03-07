@@ -11,7 +11,11 @@ It provides overall better thermal heat transfer compared to the stock thermal p
 ### How to perform it?
 
 step 1. get a flat piece of copper and cut it to the same width as the die (also has to be slightly thinner than the original thermal pad to prevent the board from bending possibly)
+
+
 step 2. sand it a bit to get rid of rough surfaces/edges
+
+
 step 3. place an appropriate amount of thermal paste on both sids of the copper piece and place it on the CPU then put the board back into place making sure the copper is making soild contact with both the CPU and the heatsink/keyboard backplate.
 ![20240223_200224](https://github.com/AverageJuliet/chromebook_hardware_mods/assets/134985726/772c787e-aad6-45ec-9898-3246fdc46390)
 It should look something like this if its cut and sanded correctly.

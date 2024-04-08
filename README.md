@@ -31,4 +31,5 @@ step 6. monitor temps to ensure the mod was successful.
 ![20240223_201337 (1)](https://github.com/AverageJuliet/chromebook_hardware_mods/assets/134985726/5d735a71-1a4c-4aa0-af0f-8dd669dd2527)
 This is an example of the mod performed successfully. 
 
+Also if you have a CB featuring the N4500 or another chip where the iGPU is on a seperate die this guide works as well but you need a longer piece of copper 
 
